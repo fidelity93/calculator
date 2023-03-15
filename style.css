@@ -7,9 +7,9 @@
     justify-content: center;
 }
 .calculator {
-    background: #a8d4e6;
+    background: #C9928F;
     padding: 20px;
-    border-radius: 50px;
+    border-radius: 20px;
 }
 .calculator form input {
     border: 0;
